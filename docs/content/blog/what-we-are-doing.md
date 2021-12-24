@@ -8,6 +8,9 @@ template = "blog/page.html"
 
 [taxonomies]
 authors = ["Sun"]
+
+[extra]
+images = ["/what-we-are-doing.png"]
 +++
 
 As we all know, the industry we are in has never lacked fancy concepts, web3/metaverse/?? As a gimmick, we are in a storm, and we are inevitably lost. In order to be able to see the way forward, I would like to summarize it, and we will sort it out from two points: one is the original intention; the other is the current projects, progress and plan.
