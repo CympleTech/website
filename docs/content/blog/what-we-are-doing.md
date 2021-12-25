@@ -43,6 +43,6 @@ PDC: Build a safe data processing method. Including all aspects of data processi
 
 PDE: Build a safe way to share data. An ability to authorize others to use their own data, including safe and reliable exchange of data, share data, etc. It is also currently under construction.
 
-![Projects with Immortality](/what-we-are-doing.png)
+![Projects with Immortality](https://docs.cympletech.com/what-we-are-doing.png)
 
 For the data privacy, for the sustainability of consciousness, we are striving to move forward. Happy Hacking!
