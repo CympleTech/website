@@ -20,10 +20,10 @@ top = false
 Waiting. we will upload to AppStore/PlayStore/Desktop Others quickly.
 
 - Pre-compiled binary
-  - [Android APK](https://cympletech.com/download/esse_android_arm64-v8a_v0.5.0.apk.zip)
-  - [MacOS Binary](https://cympletech.com/download/esse_macos_amd64_v0.5.0.zip)
-  - [Linux Binary](https://cympletech.com/download/esse_linux_amd64_v0.5.0.zip)
-  - [Windows Binary](https://cympletech.com/download/esse_windows_amd64_v0.5.0.zip)
+  - [Android arm64-v8a APK](https://cympletech.com/download/esse_android_arm64-v8a_v0.5.0.apk.zip)
+  - [MacOS x86_64 Binary](https://cympletech.com/download/esse_macos_amd64_v0.5.0.zip)
+  - [Linux x86_64 Binary](https://cympletech.com/download/esse_linux_amd64_v0.5.0.zip)
+  - [Windows x86_64 installer](https://cympletech.com/download/esse_windows_amd64_v0.5.0.msix)
   - IOS (waiting for upload to AppStore)
 
 - [Build from souce](https://github.com/CympleTech/ESSE)
