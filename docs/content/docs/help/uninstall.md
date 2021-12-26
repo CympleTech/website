@@ -27,7 +27,7 @@ If breaking old version, you need uninstall and clear it completely.
 
 - If you use `Windows`
   - Delete the binary package or directory.
-  - Delete document directory `/home/{name}/Documents/esse-pre`
+  - Delete document directory `C:\Users\{name}\Documents\esse-pre`
 
 - If you use `MacOS`
   - Delete the binary package or directory.
