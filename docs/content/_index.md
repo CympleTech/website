@@ -11,16 +11,16 @@ repo_license = "ESSE use GPL-3.0 License."
 repo_url = "https://github.com/cympletech"
 
 [[extra.list]]
+title = "Genatrix"
+content = 'An AI that manages your data on your own machine. It reads your mail and messages locally, and acts only with your approval. Check <a href="https://github.com/cympletech/genatrix">source code</a>.'
+
+[[extra.list]]
 title = "ESSE"
 content = 'ESSE (Encrypted Symmetrical Session Engine) An open source encrypted peer-to-peer system for data security, including peer-to-peer chat, groups, notes, wallets, etc. Start from <a href="/docs/introduction">introduction</a>, or check <a href="https://github.com/cympletech/esse">source code</a>.'
 
 [[extra.list]]
 title = "TDN️"
-content = 'Trusted Distributed Network. (Also a micro-framework for building blockchain-like applications). Let data transfer safely, make the network stable, secure, and highly available. Check <a href="https://github.com/cympletech/tdn">source code</a>.'
-
-[[extra.list]]
-title = "Data Protocol"
-content = 'Future-oriented infrastructure - Data Protocol. Data identity protocol, data process protocol, data storage protocol and data exchange protocol. Check <a href="https://github.com/cympletech/data-protocol">source code</a>.'
+content = 'Trusted Distributed Network. (Also a micro-framework for building blockchain-like applications). Let data transfer safely, make the network stable, secure, and highly available. Check <a href="https://github.com/PostSiliconDev/TDN">source code</a>.'
 
 [[extra.list]]
 title = "chamomile"
